@@ -1,0 +1,38 @@
+/* estilos da página index.html*/
+.menu1{
+    display:flex;
+    background-color: rgb(69, 42, 165);
+    padding: 20px;
+}
+li{
+    color: antiquewhite;
+    padding-left: 20px;
+    font-size: 20px;
+}
+li:hover{
+    color:rgb(68, 54, 80)
+    
+}
+
+.contato{
+    color:rgb(21, 21, 22)
+}
+
+.tamanho{
+    font-size: 40px;
+}
+a{
+    text-decoration: none;
+}
+ul{
+    list-style-type: none;
+}
+.container{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+
+.p-30{
+    padding: 30px;
+}
