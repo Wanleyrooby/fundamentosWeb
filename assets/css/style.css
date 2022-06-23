@@ -29,10 +29,16 @@ ul{
 }
 .container{
     display: flex;
-    justify-content: left;
-    align-items: center;
+    justify-content: center;
+    
 }
-
+.imagem{
+    margin-right: 10px;
+}
 .p-30{
     padding: 30px;
 }
+ .tm-redeSocial{
+    width : 20px;
+    height: 20px;
+} 
